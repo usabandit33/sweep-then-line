@@ -8,14 +8,14 @@ From: kaelnventures@gmail.com
 Sign: Matt M.
 
 ## Sequence
-Pages not yet HTTP 200 as of 2026-09-16 ship. Do not send T1 until Pages returns 200.
+Pages HTTP 200 confirmed 2026-09-16. **Always target 5 operators with public phone + email.**
 
-Emailed when live (5):
-- Chicago Fireplace & Chimney — 708-358-0505 — chicagochimney.com — info@ChicagoChimney.com
-- Maximum Chimney — 630-802-8883 — maximumchimney.com — jj@maximumchimney.com
-- Kingsborough Chimney Sweeps — 847-639-9993 — kbchimney.com — info@kbchimney.com
-- Naperville Chimney Services — 630-357-1696 — napersweeps.com — info@napersweeps.com
-- A-1 Safety Chimney Service — 630-827-0600 — a1safetychimney.com — a1safetychimney@gmail.com
+T1 sent 2026-09-16:
+- Chicago Fireplace & Chimney — 708-358-0505 — chicagochimney.com — info@ChicagoChimney.com — T2 ~09-19/20
+- Maximum Chimney — 630-802-8883 — maximumchimney.com — jj@maximumchimney.com — T2 ~09-19/20
+- Kingsborough Chimney Sweeps — 847-639-9993 — kbchimney.com — info@kbchimney.com — T2 ~09-19/20
+- Naperville Chimney Services — 630-357-1696 — napersweeps.com — info@napersweeps.com — T2 ~09-19/20
+- A-1 Safety Chimney Service — 630-827-0600 — a1safetychimney.com — a1safetychimney@gmail.com — T2 ~09-19/20
 
 Hold (phone public, no confirmed inbox next to phone):
 - Lindemann Chimney Co. — 847-739-4199
