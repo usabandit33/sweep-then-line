@@ -13,10 +13,11 @@ Phones copied from each company site. Do not invent inboxes.
 | Ashwipe Chimney Sweeps | 800-274-9473 | ashwipe.com | info@ashwipe.com | https://ashwipe.com/ |
 | Foremost Chimney Sweep | 312-449-9915 | foremostchimneysweep.com | info@foremostchimneysweep.com | https://foremostchimneysweep.com/ |
 | Chimney USA Inc. | 773-200-4389 | chimneyusainc.com | chimneyusachicago@gmail.com | https://www.chimneyusainc.com/contact |
+| Ignite Chimney and Fireplace | 773-999-8131 | ignitechimney.com | info@ignitechimney.com | https://www.ignitechimney.com/ |
 | Lindemann Chimney Co. | 847-739-4199 | lindemann.com | none found next to phone | https://www.lindemann.com/contact/ |
 | Master Chimney Chicago | 773-830-4749 | masterchimneychicago.com | none found next to phone | https://masterchimneychicago.com/ |
 
 ## Removed / permanent failures
-- **Maximum Chimney** — 630-802-8883 — jj@maximumchimney.com — maximumchimney.com — DSN Failure 2026-09-22 (and repeated delays). Never on live chicago.html. Do not re-outreach this inbox. Replaced 2026-09-29 by Ashwipe, Foremost, Chimney USA.
+- **Maximum Chimney** — 630-802-8883 — jj@maximumchimney.com — maximumchimney.com — DSN Failure 2026-09-22 and permanent Failure 2026-09-29. Never on live chicago.html. Do not re-outreach this inbox. Replaced 2026-09-29 by Ashwipe, Foremost, Chimney USA; further slot filled 2026-09-30 by Ignite.
 
 T1 only to shops with phone + email on the public site, and only after Pages HTTP 200. Target ≥5 emailable.
